@@ -1,11 +1,11 @@
 # Simple-Calculator
 A simple calculator :)
-Version 1.00 - Published 24.06.2024
--includes addition
--includes subtraction
--includes multiplication
--includes division
-Version 2.00 - Published 24.06.2024
--incudes everything from version 1.00
--includes Logarithmic Values
--includes fnding Square Root
+<br> Version 1.00 - Published 24.06.2024
+<br> -includes addition
+<br> -includes subtraction
+<br> -includes multiplication
+<br> -includes division
+<br> Version 2.00 - Published 24.06.2024
+<br> -incudes everything from version 1.00
+<br> -includes Logarithmic Values
+<br> -includes fnding Square Root
